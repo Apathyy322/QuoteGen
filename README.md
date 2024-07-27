@@ -2,4 +2,6 @@
 
 CLi Quote Generator that uses monkeytype's json library with quotes to generate quotes
 
+Check changelog.txt to see what i changed in each version of QuoteGen! 
+
 # Made by Apathyy322
