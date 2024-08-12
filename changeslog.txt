@@ -9,5 +9,6 @@
   -Added automated weather function(make sure you are not using VPN if you want to check your weather)
 
 **Version 1.30**
-
-  Comming soon....
+  -Added Random Advices Generator
+  -Added choice between Quotes/Random Advices
+  -Made Path fixes
